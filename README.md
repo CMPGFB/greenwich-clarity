@@ -1,4 +1,4 @@
-# **Greenwich Token (GRN) - Clarity Smart Contract**  
+# **Greenwich Token (GRN)**  
 
 ### **Overview**  
 The **Greenwich Token (GRN)** is a fungible token implemented in Clarity, designed to facilitate access to premium information resources (such as PDFs and eBooks) through an on-chain payment mechanism. This contract ensures secure token transfers, manages resource access, and includes a deflationary burn mechanism upon purchases.  
